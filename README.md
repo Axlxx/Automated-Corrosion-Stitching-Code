@@ -14,3 +14,4 @@ The lab depth maps are the _Steel_Database_material_number.mat_ files.
 Results presented in the figures in the paper come from the data in the _Results_ folder.
 
 This project is Licensed under the MIT Licence.  
+Uses Zenodo for code versioning under the DOI: [![DOI](https://zenodo.org/badge/954127526.svg)](https://doi.org/10.5281/zenodo.15947367)

@@ -1,4 +1,6 @@
 **Code used for the paper titled _Automated Image Stitching on Ultrasonic C-scan Thickness Data_**
+
+
 by _Alexandru Nichita, Yifeng Zhang, and Frederic Cegla_
 in the _Non-Destructive Evaluation_ group in the _Department of Mechanical Engineering_ at _Imperial College London_
 

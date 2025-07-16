@@ -1,4 +1,4 @@
-**Code used for the paper titled _Automated Image Stitching on Ultrasonic C-scan Thickness Data_**
+**Code used for the paper titled _Automated Image Stitching of Ultrasonic C-scan Thickness Data_**
 
 
 by _Alexandru Nichita, Yifeng Zhang, and Frederic Cegla_
